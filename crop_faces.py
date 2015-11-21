@@ -47,10 +47,13 @@ testfile = urllib.URLopener()
 
 # Allowable extensions
 extensions = ["jpeg", "jpg", "png","gif"]
-for line in open("gg_test.txt"):
+for line in open("gg_dataset.txt"):
     # if line is empty: skip
     current = line.split()
     if current == []:
+        continue
+    # if line begins with * skip
+    if current[0] == "*"
         continue
 
     # current[0] -> name
