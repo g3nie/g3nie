@@ -1,24 +1,24 @@
-jessica   7     http://images5.fanpop.com/image/photos/27800000/Jessica-Korea-s-iTunes-Genie-launching-event-jung-sisters-27852109-500-999.jpg
-jessica   8     http://images5.fanpop.com/image/polls/1023000/1023254_1336479049209_full.jpg
-jessica   9     http://40.media.tumblr.com/5a16143f554d5aa35b9bdc4fb70c7ad3/tumblr_n5b6wxUfj61rfio41o1_1280.jpg
-jessica   10    http://wallpoper.com/images/00/06/97/02/jessica-genie_00069702.jpg
-jessica   11    https://niesa87himura.files.wordpress.com/2011/04/jessica-2.jpg
-jessica   12    http://ic.pics.livejournal.com/g_odalisque13/25554719/51246/51246_640.jpg
-jessica   13    http://static.tumblr.com/texzcou/HBvlqpdmy/jessicagenie_1.jpg
-jessica   14    http://c1.f17.img.vnecdn.net/2015/08/31/30ng56x-8217-1440994814.jpg
-jessica   15    https://thekpoprage.files.wordpress.com/2012/04/jessica-120.jpg
-jessica   16    http://www.showwallpaper.com/wallpaper/1101/049987.jpg # Multiple here
-jessica   17    http://i47.tinypic.com/ds49l.jpg
-jessica   18    http://images5.fanpop.com/image/forum/182000/182778_1340371966484_full.jpg
-jessica   19    http://i48.tinypic.com/vgabt.jpg
-jessica   20    http://30.media.tumblr.com/tumblr_ljkrleMhq91qf1542o1_500.jpg
-jessica   21    http://taeyeonism.com/wp-content/uploads/2012/04/genie-performance-3.jpg
-jessica   22    http://jodahome.com/wp-content/uploads/2015/07/SNSD-Wallpaper-Army-Costumes-2013.jpg
+jessica   7     198,91,328,221  http://images5.fanpop.com/image/photos/27800000/Jessica-Korea-s-iTunes-Genie-launching-event-jung-sisters-27852109-500-999.jpg
+jessica   8     163,92,229,158  http://images5.fanpop.com/image/polls/1023000/1023254_1336479049209_full.jpg
+jessica   9     396,108,502,214 http://40.media.tumblr.com/5a16143f554d5aa35b9bdc4fb70c7ad3/tumblr_n5b6wxUfj61rfio41o1_1280.jpg
+jessica   10    78,58,168,148   http://wallpoper.com/images/00/06/97/02/jessica-genie_00069702.jpg
+jessica   11    46,135,262,350  https://niesa87himura.files.wordpress.com/2011/04/jessica-2.jpg
+jessica   12    150,93,261,201  http://ic.pics.livejournal.com/g_odalisque13/25554719/51246/51246_640.jpg
+jessica   13    240,121,412,275 http://static.tumblr.com/texzcou/HBvlqpdmy/jessicagenie_1.jpg
+jessica   14    171,132,357,318 http://c1.f17.img.vnecdn.net/2015/08/31/30ng56x-8217-1440994814.jpg
+jessica   15    404,192,691,477 https://thekpoprage.files.wordpress.com/2012/04/jessica-120.jpg
+jessica   16    *** http://www.showwallpaper.com/wallpaper/1101/049987.jpg # Multiple here
+jessica   17    234,142,390,298 http://i47.tinypic.com/ds49l.jpg
+jessica   18    403,106,666,373 http://images5.fanpop.com/image/forum/182000/182778_1340371966484_full.jpg
+jessica   19    175,118,342,280 http://i48.tinypic.com/vgabt.jpg
+jessica   20    138,103,267,235 http://30.media.tumblr.com/tumblr_ljkrleMhq91qf1542o1_500.jpg
+jessica   21    447,162,543,242 http://taeyeonism.com/wp-content/uploads/2012/04/genie-performance-3.jpg
+jessica   22    328,369,361,403 http://jodahome.com/wp-content/uploads/2015/07/SNSD-Wallpaper-Army-Costumes-2013.jpg
 
-yoona   5     http://i1091.photobucket.com/albums/i396/HumanToaster/SNSD/Yoona/11bccd50.jpg
-yoona   6     http://snsdpics.com/wp-content/uploads/2011/06/yoona-genie-4.jpg
-yoona   7     http://i.ytimg.com/vi/nEfytdfxhbo/maxresdefault.jpg
-yoona   8     https://s-media-cache-ak0.pinimg.com/236x/02/f4/35/02f4357a423c4396a2df0522e1575486.jpg
+yoona   5     * http://i1091.photobucket.com/albums/i396/HumanToaster/SNSD/Yoona/11bccd50.jpg
+yoona   6     253,229,357,336   http://snsdpics.com/wp-content/uploads/2011/06/yoona-genie-4.jpg
+yoona   7     800,332,980,512   http://i.ytimg.com/vi/nEfytdfxhbo/maxresdefault.jpg
+yoona   8     112,23,158,68     https://s-media-cache-ak0.pinimg.com/236x/02/f4/35/02f4357a423c4396a2df0522e1575486.jpg
 yoona   9     http://30.media.tumblr.com/tumblr_lg8ek4RiFW1qf1542o1_500.png
 yoona   10    https://snsdkorean.files.wordpress.com/2011/09/yoona-genie-outfit.jpg
 yoona   11    http://i650.photobucket.com/albums/uu223/minjookie89/YoonA/IMG_9814.jpg
