@@ -7,7 +7,7 @@ http://imgur.com/a/lidO1
 # How many of each?
 | Who?  | Amount? |
 | ------ |:------:| 
-| Taeyeon      | ? | 
-| Jessica      | ? | 
-| Tiffany | ? |
-| Yoona | ? |
+| Taeyeon | 20 | 
+| Jessica | 21 | 
+| Tiffany | 19 |
+| Yoona | 20 |
