@@ -52,15 +52,12 @@ for line in open("gg_dataset.txt"):
     current = line.split()
     if current == []:
         continue
-    # if line begins with * skip
-    if current[0] == "*"
-        continue
 
     # current[0] -> name
     # current[1] -> number
     # current[2] -> bounding box
     # current[3] -> url
-    filename = current[0] + current[1] + '.png'
+    filename = current[0] + '_' + current[1] + '.png'
     x1, y1, x2, y2 = map(int, current[2].split(','))
     url = current[3]
 
