@@ -1,4 +1,4 @@
-# ?
+# Beta Description
 The faces in this repo are labelled manually and thus contains human error. As of today only Taeyeon, Yoona, Jessica, and Tiffany are labelled. Please contribute!
 
 # g3nie dataset
@@ -12,5 +12,5 @@ http://imgur.com/a/CbQs6
 | Tiffany | 19 |
 | Yoona | 20 |
 
-# Alpha
+# Results
 https://gfycat.com/HonoredIlliterateHarlequinbug
