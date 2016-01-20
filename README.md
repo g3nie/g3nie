@@ -11,3 +11,6 @@ http://imgur.com/a/CbQs6
 | Jessica | 21 | 
 | Tiffany | 19 |
 | Yoona | 20 |
+
+# Alpha
+https://gfycat.com/HonoredIlliterateHarlequinbug
